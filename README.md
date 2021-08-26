@@ -1,7 +1,7 @@
 <h2>👋, 我是安大虎 <img src="https://64.media.tumblr.com/122d6d8739d81ed22db01eb1e2698293/tumblr_mf37avof101rgr4l6o1_r1_250.gifv" width="50"></h2>
 <p> <a href="https://www.163.com/" style="color:red" target="_blank">NetEase</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 资深前端开发工程师</p>
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
+<img width = "35%" align="right" alt="GIF" height="130px" src="https://64.media.tumblr.com/tumblr_m0m5p7B7X11r9elj2o1_500.gifv" />
 
 
 <div align="left">
