@@ -13,7 +13,7 @@
 - 💬 <a href="https://www.zhihu.com/people/an-zeng-ping">知乎专栏作者--安大虎</a>;
 - 📫 《中台架构之家》微信公众号作者.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Mrrabbitan&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Mrrabbitan&show_icons=true&theme=tokyonight)
 
 **Languages and Tools:** 
 <p align="left">
