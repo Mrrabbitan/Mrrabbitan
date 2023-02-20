@@ -21,6 +21,14 @@
   
 </p>
 
+**Processing On**
+
+![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)\
+![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
+![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
+
 <p>联系我:</p>
 <p><a href="https://www.zhihu.com/people/an-zeng-ping"><img src="./line.svg" alt="知乎专栏" />知乎专栏</a></p>
 <p><a href="https://mrrabbitan.github.io/"><img src="./sun.svg" alt="blog" />个人主页</a></p>
